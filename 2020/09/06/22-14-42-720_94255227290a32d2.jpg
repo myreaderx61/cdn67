@@ -1,0 +1,40 @@
+<!DOCTYPE html><html lang="en"><head><script>/* global window */
+
+window.env = {
+  host: 'welcometothejungle.com',
+  publicDomain: 'www.welcometothejungle.com',
+  publicPath: 'https://cdn.welcometothejungle.co/wttj-front/production/assets/',
+  algoliaApplicationId: 'CSEKHVMS53',
+  algoliaApiKey: '02f0d440abc99cae37e126886438b266',
+  algoliaArticlesIndex: 'wk_cms_articles_production',
+  algoliaOrganizationsIndex: 'wk_cms_organizations_production',
+  algoliaJobsIndex: 'wk_cms_jobs_production',
+  algoliaApplicationsIndex: 'wk_cms_private_applications_production',
+  algoliaMeetingsIndex: 'wk_meetings_production',
+  gtmContainerId: 'GTM-N5NM9B3',
+  googleMapsApiKey: 'AIzaSyDJFwwS75SaxbADKT4Aerpkkx9sigSKk50',
+  linkedinAppId: '77afzkbvda3r70',
+  linkedinAppSalt: 'c0a507c7-314d-4fa0-baa3-99d313b7a9c3',
+  algoliaPlacesApplicationId: 'plUG1CGYXJ1S',
+  algoliaPlacesApiKey: '752271f44b9654e1647de94f791aadce',
+  hereApiKey: '3YHjVgEYjuwUatQAtD-wTX8lmNXEsULPzC8m59VMGDw',
+  basicAuth: '',
+  alertsApiHost: 'alerts.welcometothejungle.com',
+  refetchUserInterval: 600000,
+  sentryDsn: 'https://bfeea64560f2441fa4ffea787dc83b52@sentry.io/1222380',
+  sentryRelease: '2a7cdc5b87a6c952239a97be999aaa80df183e7d',
+  sentryServerName: 'i-03336a7c6c7631855',
+  sentryEnvironment: 'production'
+}
+</script><link rel="preconnect" href="https://api.welcometothejungle.com"><link rel="preconnect" href="https://cdn.welcometothejungle.co"><title data-react-helmet="true"></title><link href="https://cdn.welcometothejungle.co/wttj-front/production/assets/images/favicon.png?v=415b7de9f053486a318bf05a723f2aed" rel="shortcut icon"><style data-styled="true" data-styled-version="5.1.0"></style><script>;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.defer=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','https://cdn.welcometothejungle.co/wttj-front/production/assets/sp-2.14.0.js','snowplow'));
+snowplow('newTracker','wttj','sp.welcometothejungle.com',{"appId":"web_wttj","platform":"web","eventMethod":"post","respectDoNotTrack":true,"discoverRootDomain":true,"contexts":{"webPage":true,"performanceTiming":true,"gaCookies":true},"postPath":"/zafoh2ie/ae3"});
+snowplow('enableActivityTracking',10,10);</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer', 'GTM-N5NM9B3');</script></head><body><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5NM9B3" height="0" width="0" style="display: none; visibility: hidden;"></iframe></noscript><script type="text/javascript">// https://joreteg.com/blog/improving-redux-state-transfer-performance
+window.__INITIAL_STATE__ = "{\"notifications\":[],\"router\":{\"location\":{\"pathname\":\"/\",\"search\":\"\",\"hash\":\"\",\"key\":\"lvfuzd\",\"query\":{}},\"action\":\"POP\"},\"modal\":{\"opened\":false,\"children\":null},\"ssr\":{\"notification\":null},\"socket\":{\"socket\":null},\"session\":{\"unconfirmed\":false,\"linkedInUser\":null,\"locked\":false,\"confirmationUpdateError\":null,\"confirmationUpdateInfo\":null,\"resetPasswordToken\":null,\"unlockUpdateError\":null,\"unlockUpdateInfo\":null,\"afterSignin\":null,\"linkedInLoading\":false},\"alerts\":{\"entries\":[],\"metadata\":{},\"isLoaded\":false},\"magazineRequests\":{},\"api\":{\"collections\":{\"Directories\":{\"en-summary\":{\"available\":[\"a\",\"b\",\"c\",\"d\",\"e\",\"f\",\"g\",\"h\",\"i\",\"j\",\"k\",\"l\",\"m\",\"n\",\"o\",\"other\",\"p\",\"q\",\"r\",\"s\",\"t\",\"u\",\"v\",\"w\",\"y\",\"z\"]}}},\"resources\":{},\"resourceErrors\":{},\"collectionTtl\":{\"Directories\":{\"en-summary\":1599430782659}}},\"bookmarks\":{\"meetings\":[],\"organizations\":[],\"articles\":[],\"jobs\":[]},\"i18n\":{\"organizationLocale\":{},\"locale\":\"en\",\"languageAlert\":\"hide\"}}"
+window.__ALGOLIA_SSR_DATA__ = "null"</script><div class="container" id="app"></div><script src="https://polyfill.io/v3/polyfill.min.js?features=default%2Ces5%2Ces6%2Ces7%2Ces2015%2Ces2016%2Ces2017%2Ces2018%2Ces2019%2CIntl.PluralRules%2CIntl.RelativeTimeFormat%2CIntl.PluralRules.%7Elocale.en%2CIntl.RelativeTimeFormat.%7Elocale.en"></script><script type="text/javascript" src="https://cdn.welcometothejungle.co/wttj-front/production/assets/vendors-9404e22e5ff8c2ec9584.js"></script><script type="text/javascript" src="https://cdn.welcometothejungle.co/wttj-front/production/assets/client-3fb6ac7dbfffc8a4e760.js"></script></body></html>
